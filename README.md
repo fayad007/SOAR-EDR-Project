@@ -33,8 +33,7 @@ The solution continuously monitors endpoint activity through LimaCharlie, which 
 * LimaCharlie EDR
 * Tines SOAR Platform
 * Slack
-* REST APIs
-* JSON
+* Lazagne(Open source password recovery tool)
 * Security Automation Workflows
 
 ## Skills Demonstrated
