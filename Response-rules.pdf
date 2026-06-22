@@ -1,0 +1,10 @@
+- action: report
+  metadata:
+    author: MDFIR
+    description: Detects Lazagne (SOAR-EDR Tool)
+    falsepositives:
+      - To the moon
+    level: medium
+    tags:
+      - attack.credential_access
+  name: MDFIR-HACKTOOL-Lazagne (SOAR-EDR)
