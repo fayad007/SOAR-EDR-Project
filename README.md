@@ -30,11 +30,12 @@ The solution continuously monitors endpoint activity through LimaCharlie, which 
 
 ## Technologies Used
 
-* LimaCharlie EDR
-* Tines SOAR Platform
-* Slack
+* <a href="https://limacharlie.io/">LimaCharlie</a> EDR
+* <a href="https://www.tines.com/">Tines</a> SOAR Platform
+* <a href="https://slack.com/intl/en-in/">Slack</a>
 * <a href="https://github.com/alessandroz/lazagne/releases">Lazagne</a>(Open source password recovery tool) 
 * Security Automation Workflows
+* Windows virtual box
 
 ## Skills Demonstrated
 
